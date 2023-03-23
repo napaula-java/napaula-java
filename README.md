@@ -1,6 +1,6 @@
 Hello, world! I'm Ana Paula 😊
 
-I'm a software engineer who is passionate about Java back-end developing.
+I'm a software engineer who is passionate about Java back-end development.
 Some technologies I enjoy working with include: Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Spring Cloud, SQL and NoSQL databases and others.
 
 I'm also currently studying other technologies, such as Docker and Jenkins. My goal is to dive deeper into DevOps culture. 😁
