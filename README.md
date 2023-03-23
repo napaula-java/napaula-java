@@ -12,4 +12,4 @@ I'm also currently studying other technologies, such as Docker and Jenkins. My g
 
 <a href="https://instagram.com/napaulaoliv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<a href = "anapaulaequfrrj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
